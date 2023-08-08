@@ -44,27 +44,27 @@ Média Final = ((Trabalho - Parte 1 * 50) + (Trabalho - Parte 2 * 50) / 100
     <th>ATIVIDADES PROGRAMADAS</th>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 1</td>
     <td>Introdução à disciplina</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 2</td>
     <td>Integração contínua com o Git flow</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 3</td>
     <td>Integração contínua com o Git flow</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 4</td>
     <td>Administração de sistemas com Linux</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 5</td>
     <td>Administração de sistemas com Linux</td>
   </tr>
