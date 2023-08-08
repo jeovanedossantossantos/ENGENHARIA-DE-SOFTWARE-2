@@ -54,9 +54,21 @@
 
 # GCET549 - 25/07/2023
 
-- <a href="https://www.youtube.com/watch?v=EIvts9a7fpw">Usuários, grupos, permissões e propriedade</a>
+- <a href="https://www.youtube.com/watch?v=EIvts9a7fpw">Vídeo - Usuários, grupos, permissões e propriedade</a>
 - <a href="https://www.redhat.com/sysadmin/hard-links-linux?authuser=0">Sysadmin basics: Create hard links in Linux</a>
 - <a href="https://linuxize.com/post/how-to-add-user-to-sudoers-in-ubuntu/">How to Add User to Sudoers in Ubuntu</a>
 - <a href="https://linuxize.com/post/how-to-add-user-to-group-in-linux/">How to Add User to Group in Linux</a>
 - <a href="https://linuxize.com/post/how-to-list-users-in-linux/">How to List Users in Linux</a>
 - <a href="https://www.redhat.com/sysadmin/manage-permissions">How to manage Linux permissions for users, groups, and others</a>
+
+# GCET549 - 27/07/2023
+
+- <a href="https://www.youtube.com/watch?v=2fftqXrVTRY"> Vídeo - Configurações iniciais do servidor </a>
+- <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-22-04?authuser=0">How To Set Up a Firewall with UFW on Ubuntu 22.04</a>
+- <a href="https://www.ionos.com/help/server-cloud-infrastructure/getting-started/important-security-information-for-your-server/deactivating-the-ssh-root-login/">Deactivating the SSH Root Login</a>
+- <a href="https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-22-04">Initial Server Setup with Ubuntu 22.04</a>
+
+# GCET549 - 01/08/2023
+
+- <a href="https://www.youtube.com/watch?v=fKAxO_8rsAk">Vídeo - Instalação e configuração do Nginx</a>
+- <a href="https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04">How To Install Nginx on Ubuntu 20.04</a>
