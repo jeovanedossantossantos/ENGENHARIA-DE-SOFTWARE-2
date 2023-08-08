@@ -53,6 +53,8 @@
 - <a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">The Linux command line for beginners</a>
 - <a href="https://www.hostinger.com/tutorials/linux-commands">40 Essential Linux Commands + a Free Cheat Sheet</a>
 - <a href="https://www.digitalocean.com/community/tutorials/linux-commands">Top 50+ Linux Commands You MUST Know</a>
+
+
 ![image](https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/5a9267c9-d9ef-4f55-a4af-1ee1a9bf1ad5)
 
 # GCET549 - 25/07/2023
