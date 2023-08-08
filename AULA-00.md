@@ -39,3 +39,15 @@
 
 ![image](https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/8ba7bcd4-e0d9-4f5f-97f9-954802beefaa)
 
+# GCET549 - 18/07/2023
+
+- <a href="https://www.youtube.com/watch?v=upbDKCRJDxQ"> Vídeo SSH</a>
+![image](https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/f0b7c187-99a3-4127-8475-3c9c61470dbe)
+
+# GCET549 - 20/07/2023
+
+- <a href="https://www.youtube.com/watch?v=BB3wCn1oBhg">Vídeo - Comandos básicos do Linux</a>
+- <a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">The Linux command line for beginners</a>
+- <a href="https://www.hostinger.com/tutorials/linux-commands">40 Essential Linux Commands + a Free Cheat Sheet</a>
+- <a href="https://www.digitalocean.com/community/tutorials/linux-commands">Top 50+ Linux Commands You MUST Know</a>
+![image](https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/5a9267c9-d9ef-4f55-a4af-1ee1a9bf1ad5)
