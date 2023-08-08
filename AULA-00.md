@@ -51,3 +51,12 @@
 - <a href="https://www.hostinger.com/tutorials/linux-commands">40 Essential Linux Commands + a Free Cheat Sheet</a>
 - <a href="https://www.digitalocean.com/community/tutorials/linux-commands">Top 50+ Linux Commands You MUST Know</a>
 ![image](https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/5a9267c9-d9ef-4f55-a4af-1ee1a9bf1ad5)
+
+# GCET549 - 25/07/2023
+
+- <a href="https://www.youtube.com/watch?v=EIvts9a7fpw">Usuários, grupos, permissões e propriedade</a>
+- <a href="https://www.redhat.com/sysadmin/hard-links-linux?authuser=0">Sysadmin basics: Create hard links in Linux</a>
+- <a href="https://linuxize.com/post/how-to-add-user-to-sudoers-in-ubuntu/">How to Add User to Sudoers in Ubuntu</a>
+- <a href="https://linuxize.com/post/how-to-add-user-to-group-in-linux/">How to Add User to Group in Linux</a>
+- <a href="https://linuxize.com/post/how-to-list-users-in-linux/">How to List Users in Linux</a>
+- <a href="https://www.redhat.com/sysadmin/manage-permissions">How to manage Linux permissions for users, groups, and others</a>
