@@ -17,3 +17,13 @@
       git checkout -b develop
 
       git flow init
+
+# Git
+
+- <a href="https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao?authuser=0">GIT Tutorial Para Iniciantes O que é GIT?</a>
+- <a href="https://www.uniaogeek.com.br/guia-de-comandos-cmd-terminal-do-windows/?authuser=0">Guia de Comandos CMD (Terminal do Windows)</a>
+- <a href="https://www.youtube.com/watch?v=Q41rqjtKtqk">Vídeo aula</a>
+
+# GCET549 - 11/07/2023
+
+- <a href="https://www.youtube.com/watch?v=HFq8XtadwK8">Integração contínua, Git, Git flow e Github flow</a>
