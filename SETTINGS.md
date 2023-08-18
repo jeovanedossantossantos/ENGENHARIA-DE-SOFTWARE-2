@@ -21,6 +21,7 @@ ufw enable
 ufw status
 ```
 <a href="https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04-pt">Referência</a>
+
 # Instalando banco de dados
 
 Passo 1 - Baixando e Instalndo o mariadb
@@ -40,3 +41,5 @@ Passo 2 - Criara um banco
   - Criando database: ```CREATE DATABASE nomedatadabase;```
   - Acessando uma database: ```USE nomedadatabase;```
   - Listando tabelas de uma database: ```show tables;```
+
+<a href="https://www.linuxnaweb.com/comandos-uteis-do-mysql-mariadb/">Referência</a>
