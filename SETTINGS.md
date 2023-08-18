@@ -1,3 +1,15 @@
+<div align="center">
+
+   <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/0b447c7f-db31-4255-9c8c-e714b99cd211"></img></code>
+   <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/669ac552-56ab-4847-84ef-1d621602ea6c"></img></code>
+   <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/a6be43af-2186-43c4-9d56-e149b4d24210"></img></code>
+   <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/a92ba4e1-2fea-4c5a-b89f-ec9b764c8649"></img></code>
+ <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/dd23238b-5952-4bd3-877f-043d051f0f91"></img></code>
+ <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/936052cb-9f41-4432-82e0-d18a3d2ee672"></img></code>
+ <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/dd3d1979-6644-4895-a29e-530c8ecf672b"></img></code>
+ 
+</div>
+
 # Configuração Inicial de servidor com Ubuntu 
 
 Passo 1 — Fazendo login como raiz
@@ -117,7 +129,7 @@ Portanto, a configuração indica que o Nginx será configurado para atuar como 
       server 127.000.1:4000;
   }
 
-    server { server_name api.esportes.ness.dev.br; # Substitua pelo seu domínio ou endereço IP
+    server { server_name api.node.test.dev.br; # Substitua pelo seu domínio ou endereço IP
 
     location / {
         proxy_pass http://nodejs/;  # Substitua pelo endereço do servidor da sua API
@@ -141,24 +153,25 @@ Portanto, a configuração indica que o Nginx será configurado para atuar como 
     }
 
     listen 443 ssl; # managed by Certbot
-    ssl_certificate /etc/letsencrypt/live/api.esportes.ness.dev.br/fullchain.pem; # managed by Certbot
-    ssl_certificate_key /etc/letsencrypt/live/api.esportes.ness.dev.br/privkey.pem; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/api.node.test.dev.br/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/api.node.test.dev.br/privkey.pem; # managed by Certbot
     include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
     ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
 
     }
     server {
-        if ($host = api.esportes.ness.dev.br) {
+        if ($host = api.node.test.dev.br) {
             return 301 https://$host$request_uri;
         } # managed by Certbot
     
     
     
-            listen 80; server_name api.esportes.ness.dev.br;
+            listen 80; server_name api.node.test.dev.br;
         return 404; # managed by Certbot
     
     
     }
 ```
-<a herf="https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/">NGINX referencia</a>
+<a href="https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/">NGINX referencia</a>
+
 <a href="https://certbot.eff.org/">Certbot referencia</a>
