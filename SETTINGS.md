@@ -160,4 +160,5 @@ Portanto, a configuração indica que o Nginx será configurado para atuar como 
     
     }
 ```
-
+<a herf="https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/">NGINX referencia</a>
+<a href="https://certbot.eff.org/">Certbot referencia</a>
