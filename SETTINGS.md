@@ -43,3 +43,21 @@ Passo 2 - Criara um banco
   - Listando tabelas de uma database: ```show tables;```
 
 <a href="https://www.linuxnaweb.com/comandos-uteis-do-mysql-mariadb/">Referência</a>
+
+# Instalando o pm2
+O pm2 é um gerenciamento de processos.
+
+- Instalação: ```npm install pm2@latest -g``` ou ```yarn global add pm2```
+- Roda uma aplicação: ```pm2 start app.js```
+- Encerrar uma aplicação: ```pm2 stop app```
+- Gerenciando processos:
+  
+  ```
+  pm2 restart app_name
+  pm2 reload app_name
+  pm2 stop app_name
+  pm2 delete app_name
+  
+  ```
+
+  <a href="https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page/">Referência</a>
