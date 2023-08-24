@@ -69,27 +69,27 @@ Média Final = ((Trabalho - Parte 1 * 50) + (Trabalho - Parte 2 * 50) / 100
     <td>Administração de sistemas com Linux</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 6</td>
     <td>DNS, HTTPS e Servidores HTTP</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 7</td>
     <td>DNS, HTTPS e Servidores HTTP</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 8</td>
     <td>Banco de dados</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 9</td>
     <td>Projeto web</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 10</td>
     <td>Apresentação do Trabalho - Parte 1</td>
   </tr>
