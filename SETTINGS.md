@@ -86,6 +86,7 @@ O pm2 é um gerenciamento de processos.
 - Instalando: ```sudo apt-get install nginx```
 - Crinado o arauivo de configuração: ```sudo mkdir /etc/nginx/sites-available```
 - Abrindo o arquivo de configuração: ```sudo nano /etc/nginx/sites-available/nome.que.for.melhor```
+- Restarte o nginx: ```sudo systemctl restart ngnix```
 - Instale o certbot: ```sudo snap install --classic certbot```
 - Configuração do certbot: ```sudo ln -s /snap/bin/certbot /usr/bin/certbot```
 - Automatizar a instalação e configuração de certificados SSL/TLS para um servidor web Nginx: ```sudo certbot --nginx```
@@ -171,6 +172,73 @@ Portanto, a configuração indica que o Nginx será configurado para atuar como 
     
     
     }
+```
+
+ou
+
+```
+
+upstream siimesporte_backend {
+
+   server 127.0.0.1:4444; ############### MUDAR AQUI
+
+}
+
+server {
+
+  root /home/jeovane/sys_esporte_front/build; ############### MUDAR AQUI
+
+  index index.html;
+
+  server_name siimesportes.ness.dev.br; ############### MUDAR AQUI
+
+
+
+  location / {
+
+    try_files $uri $uri/ /index.html;
+
+  }
+
+
+
+  location /backend/ {
+
+    proxy_pass http://siimesporte_backend/;
+
+    proxy_set_header X-Real-IP $remote_addr;
+
+    proxy_set_header Host $http_host;
+
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+
+  }
+
+
+
+    listen 80;
+
+
+
+    add_header X-Content-Type-Options nosniff;
+
+    add_header Strict-Transport-Security 'max-age=31536000; includeSubDomains; preload';
+
+    add_header X-XSS-Protection "1; mode=block";
+
+    add_header Referrer-Policy "strict-origin";
+
+    add_header Permissions-Policy "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()";
+
+    add_header Content-Security-Policy "frame-ancestors 'self'";
+
+    add_header X-Frame-Options "SAMEORIGIN";
+
+
+
+}
+
+
 ```
 <a href="https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/">NGINX referencia</a>
 
