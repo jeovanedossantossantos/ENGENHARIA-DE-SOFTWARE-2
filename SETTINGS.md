@@ -86,7 +86,7 @@ O pm2 é um gerenciamento de processos.
 - Instalando: ```sudo apt-get install nginx```
 - Crinado o arauivo de configuração: ```sudo mkdir /etc/nginx/sites-available```
 - Abrindo o arquivo de configuração: ```sudo nano /etc/nginx/sites-available/nome.que.for.melhor```
-- Restarte o nginx: ```sudo systemctl restart ngnix```
+- Restarte o nginx: ```sudo systemctl restart -nginx```
 - Instale o certbot: ```sudo snap install --classic certbot```
 - Configuração do certbot: ```sudo ln -s /snap/bin/certbot /usr/bin/certbot```
 - Automatizar a instalação e configuração de certificados SSL/TLS para um servidor web Nginx: ```sudo certbot --nginx```
