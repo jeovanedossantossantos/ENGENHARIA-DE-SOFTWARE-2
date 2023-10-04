@@ -76,6 +76,7 @@ O pm2 é um gerenciamento de processos.
 
 # Colocando um projeto no servidor
 
+- Deve ser colocado dentro do diretorio padrão do servidor ```cd /var/www```
 - Clone o projeto com o ```git clone```, será necessaio fazer o login com o usuario e com o token do github, depois de um cd para entra no projeto.
 - Crindo o .env ```cat > .env``` ou se tiver um env de exemplo ```cp .envExemplo .env```
 - Instale as dependências
@@ -186,7 +187,7 @@ upstream siimesporte_backend {
 
 server {
 
-  root /home/jeovane/sys_esporte_front/build; ############### MUDAR AQUI
+  root /home/jeovane/sys_esporte_front/build; ############### MUDAR AQUI ou /var/www
 
   index index.html;
 
