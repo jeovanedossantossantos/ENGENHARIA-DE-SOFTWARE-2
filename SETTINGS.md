@@ -244,3 +244,13 @@ server {
 <a href="https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/">NGINX referencia</a>
 
 <a href="https://certbot.eff.org/">Certbot referencia</a>
+
+
+![image](https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/b3b59af6-ac24-4f0d-ad0f-d2c9e3f78387)
+
+![image](https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/5e3ad2fb-b6ef-462b-82de-3805ae1de3cc)
+
+![image](https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/7484870e-9351-4885-86df-8e928615d8c5)
+
+
+
