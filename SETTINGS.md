@@ -1,12 +1,13 @@
 <div align="center">
 
-   <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/0b447c7f-db31-4255-9c8c-e714b99cd211"></img></code>
-   <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/669ac552-56ab-4847-84ef-1d621602ea6c"></img></code>
-   <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/a6be43af-2186-43c4-9d56-e149b4d24210"></img></code>
-   <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/a92ba4e1-2fea-4c5a-b89f-ec9b764c8649"></img></code>
- <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/dd23238b-5952-4bd3-877f-043d051f0f91"></img></code>
- <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/936052cb-9f41-4432-82e0-d18a3d2ee672"></img></code>
- <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/dd3d1979-6644-4895-a29e-530c8ecf672b"></img></code>
+
+   <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/fbaab1c4-b737-4cd1-ae92-7f6db05411ac"></img></code>
+   <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/6756fd16-549f-48e5-aa2e-2e46b3afb681"></img></code>
+   <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/34488836-2904-4336-8787-80fc82c5e7e3"></img></code>
+   <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/2ee2eaef-240d-48b2-852b-c697cbe2d97f"></img></code>
+ <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/ba2a7180-a1cf-42d9-8a82-7599598242ab"></img></code>
+ <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/e4ec28fd-0a49-4ec9-a528-d847af606587"></img></code>
+ <code><img height="30" src="https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/7c68856c-eae8-4734-9fc5-fb7110e57682"></img></code>
  
 </div>
 
