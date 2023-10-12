@@ -32,7 +32,7 @@
 
 # GCET549 - 13/07/2023
 
-- <a href="https://www.youtube.com/watch?v=JyZKqQP1plk">Video - Git flow</a>
+<!--- <a href="https://www.youtube.com/watch?v=JyZKqQP1plk">Video - Git flow</a>--->
 - <a href="https://danielkummer.github.io/git-flow-cheatsheet/">git-flow cheatsheet</a>
 - <a href="https://www.npmjs.com/package/git-flow">git-flow</a>
 - <a href="https://howtoinstall.co/en/git-flow">How to install git-flow on Ubuntu</a>
@@ -42,14 +42,14 @@
 
 # GCET549 - 18/07/2023
 
-- <a href="https://www.youtube.com/watch?v=upbDKCRJDxQ"> Vídeo SSH</a>
+<!---- <a href="https://www.youtube.com/watch?v=upbDKCRJDxQ"> Vídeo SSH</a-->
 
 
 ![image](https://github.com/jeovanedossantossantos/ENGENHARIA-DE-SOFTWARE-2/assets/60934938/f0b7c187-99a3-4127-8475-3c9c61470dbe)
 
 # GCET549 - 20/07/2023
 
-- <a href="https://www.youtube.com/watch?v=BB3wCn1oBhg">Vídeo - Comandos básicos do Linux</a>
+<!---- <a href="https://www.youtube.com/watch?v=BB3wCn1oBhg">Vídeo - Comandos básicos do Linux</a-->
 - <a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">The Linux command line for beginners</a>
 - <a href="https://www.hostinger.com/tutorials/linux-commands">40 Essential Linux Commands + a Free Cheat Sheet</a>
 - <a href="https://www.digitalocean.com/community/tutorials/linux-commands">Top 50+ Linux Commands You MUST Know</a>
@@ -59,7 +59,7 @@
 
 # GCET549 - 25/07/2023
 
-- <a href="https://www.youtube.com/watch?v=EIvts9a7fpw">Vídeo - Usuários, grupos, permissões e propriedade</a>
+<!---- <a href="https://www.youtube.com/watch?v=EIvts9a7fpw">Vídeo - Usuários, grupos, permissões e propriedade</a-->
 - <a href="https://www.redhat.com/sysadmin/hard-links-linux?authuser=0">Sysadmin basics: Create hard links in Linux</a>
 - <a href="https://linuxize.com/post/how-to-add-user-to-sudoers-in-ubuntu/">How to Add User to Sudoers in Ubuntu</a>
 - <a href="https://linuxize.com/post/how-to-add-user-to-group-in-linux/">How to Add User to Group in Linux</a>
@@ -68,12 +68,12 @@
 
 # GCET549 - 27/07/2023
 
-- <a href="https://www.youtube.com/watch?v=2fftqXrVTRY"> Vídeo - Configurações iniciais do servidor </a>
+<!---- <a href="https://www.youtube.com/watch?v=2fftqXrVTRY"> Vídeo - Configurações iniciais do servidor </a-->
 - <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-22-04?authuser=0">How To Set Up a Firewall with UFW on Ubuntu 22.04</a>
 - <a href="https://www.ionos.com/help/server-cloud-infrastructure/getting-started/important-security-information-for-your-server/deactivating-the-ssh-root-login/">Deactivating the SSH Root Login</a>
 - <a href="https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-22-04">Initial Server Setup with Ubuntu 22.04</a>
 
 # GCET549 - 01/08/2023
 
-- <a href="https://www.youtube.com/watch?v=fKAxO_8rsAk">Vídeo - Instalação e configuração do Nginx</a>
+<!---- <a href="https://www.youtube.com/watch?v=fKAxO_8rsAk">Vídeo - Instalação e configuração do Nginx</a-->
 - <a href="https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04">How To Install Nginx on Ubuntu 20.04</a>
