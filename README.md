@@ -94,37 +94,37 @@ Média Final = ((Trabalho - Parte 1 * 50) + (Trabalho - Parte 2 * 50) / 100
     <td>Apresentação do Trabalho - Parte 1</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 11</td>
     <td>Deploy contínuo com o Jenkins</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 12</td>
     <td>Deploy contínuo com o Jenkins</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 13</td>
     <td>Deploy contínuo com o Jenkins</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 14</td>
     <td>Deploy contínuo com o Jenkins</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 15</td>
     <td>Docker</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 16</td>
     <td>Kubernetes</td>
   </tr>
   <tr>
-    <td>AGUARDANDO</td>
+    <td>FINALIZADO</td>
     <td>Semana 17</td>
     <td>Apresentação do Trabalho - Parte 2</td>
   </tr>
